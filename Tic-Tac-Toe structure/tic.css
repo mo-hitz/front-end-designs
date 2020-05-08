@@ -1,0 +1,28 @@
+h1
+{
+	font-family: Anton;
+	text-align: center;
+	font-size: 100px;
+}
+table
+{
+	margin: auto;
+}
+
+td
+{
+	width: 100px;
+	height: 100px;
+}
+.vertical
+{
+	border-left:2px solid blue; 
+	border-right:2px solid blue; 
+}
+
+.horizontal
+{
+
+	border-top:2px solid blue; 
+	border-bottom:2px solid blue; 	
+}
